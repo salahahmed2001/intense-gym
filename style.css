@@ -938,16 +938,16 @@ margin-bottom: 10vh;
         
     }
     .img11{
-        background-image: url(images/IMG-20240119-WA0057.jpg);
+        background-image: url("images/IMG-20240119-WA0057.jpg");
     }
     .img22{
-        background-image: url(images/IMG-20240119-WA0055.jpg);
+        background-image: url("images/IMG-20240119-WA0055.jpg");
     }
     .img33{
-        background-image: url(images/about-03-480x480.jpg);
+        background-image: url("images/about-03-480x480.jpg");
     }
     .img44{
-        background-image: url(images/IMG-20240119-WA0066.jpg);
+        background-image: url("images/IMG-20240119-WA0066.jpg");
     }
 }
  /* end img coach */
@@ -1084,18 +1084,18 @@ margin-bottom: 10vh;
         }
        
        .img1{
-            background-image: url(images/IMG-20240119-WA0060.jpg); 
+            background-image: url("images/IMG-20240119-WA0060.jpg"); 
         }
         .img2{
-            background-image: url(images/IMG-20240119-WA0066.jpg);
+            background-image: url("images/IMG-20240119-WA0066.jpg");
             display: none;
         }
         .img3{
-            background-image: url(images/IMG-20240119-WA0068.jpg);
+            background-image: url("images/IMG-20240119-WA0068.jpg");
             display: none;
         }
         .img4{
-            background-image: url(images/IMG-20240119-WA0063.jpg);
+            background-image: url("images/IMG-20240119-WA0063.jpg");
             display: none;
         }
 
