@@ -90,7 +90,7 @@
 
 /* start background img */
 .img-hero1{
-    background-image: url('/images/55.jpg');
+    background-image: url('images/55.jpg');
     background-size: cover;
     background-repeat: no-repeat; 
     
@@ -419,7 +419,7 @@ margin-bottom: 10vh;
 
 /* start img Testimonials */
 .imgbak{
-    background: linear-gradient(#0000006b,#0000009a), url("/images/background-05-1920x850.jpg");
+    background: linear-gradient(#0000006b,#0000009a), url("images/background-05-1920x850.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -664,7 +664,7 @@ margin-bottom: 10vh;
 
  /* start background-about */
  .background-about{
-    background-image: url("/images/background-04-1920x750\ \(1\).jpg");
+    background-image: url("images/background-04-1920x750\ \(1\).jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 50vh;
@@ -938,16 +938,16 @@ margin-bottom: 10vh;
         
     }
     .img11{
-        background-image: url(/images/IMG-20240119-WA0057.jpg);
+        background-image: url(images/IMG-20240119-WA0057.jpg);
     }
     .img22{
-        background-image: url(/images/IMG-20240119-WA0055.jpg);
+        background-image: url(images/IMG-20240119-WA0055.jpg);
     }
     .img33{
-        background-image: url(/images/about-03-480x480.jpg);
+        background-image: url(images/about-03-480x480.jpg);
     }
     .img44{
-        background-image: url(/images/IMG-20240119-WA0066.jpg);
+        background-image: url(images/IMG-20240119-WA0066.jpg);
     }
 }
  /* end img coach */
@@ -1084,18 +1084,18 @@ margin-bottom: 10vh;
         }
        
        .img1{
-            background-image: url(/images/IMG-20240119-WA0060.jpg); 
+            background-image: url(images/IMG-20240119-WA0060.jpg); 
         }
         .img2{
-            background-image: url(/images/IMG-20240119-WA0066.jpg);
+            background-image: url(images/IMG-20240119-WA0066.jpg);
             display: none;
         }
         .img3{
-            background-image: url(/images/IMG-20240119-WA0068.jpg);
+            background-image: url(images/IMG-20240119-WA0068.jpg);
             display: none;
         }
         .img4{
-            background-image: url(/images/IMG-20240119-WA0063.jpg);
+            background-image: url(images/IMG-20240119-WA0063.jpg);
             display: none;
         }
 
