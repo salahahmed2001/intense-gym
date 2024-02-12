@@ -281,16 +281,16 @@
         }
     }
     .img1{
-        background-image: url(/images/IMG-20240119-WA0060.jpg); 
+        background-image: url(images/IMG-20240119-WA0060.jpg); 
     }
     .img2{
-        background-image: url(/images/IMG-20240119-WA0066.jpg);
+        background-image: url(images/IMG-20240119-WA0066.jpg);
     }
     .img3{
-        background-image: url(/images/IMG-20240119-WA0068.jpg);
+        background-image: url(images/IMG-20240119-WA0068.jpg);
     }
     .img4{
-        background-image: url(/images/IMG-20240119-WA0063.jpg);
+        background-image: url(images/IMG-20240119-WA0063.jpg);
     }
 }
 /* end img coach */
