@@ -240,6 +240,7 @@ html {
         margin-bottom: 9vh;
       }
     }
+<<<<<<< HEAD
     .bod {
       text-align: center;
       transition: 1s;
@@ -264,6 +265,19 @@ html {
           background-color: rgb(215, 150, 29);
         }
       }
+=======
+    .img1{
+        background-image: url(images/IMG-20240119-WA0060.jpg); 
+    }
+    .img2{
+        background-image: url(images/IMG-20240119-WA0066.jpg);
+    }
+    .img3{
+        background-image: url(images/IMG-20240119-WA0068.jpg);
+    }
+    .img4{
+        background-image: url(images/IMG-20240119-WA0063.jpg);
+>>>>>>> 2e918b61b6e82ec83a8ca902e665f6fdbcb72b47
     }
   }
   .img1 {
